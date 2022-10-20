@@ -1,0 +1,13 @@
+:root{
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    width: 80%;
+    height: 80%;
+}
