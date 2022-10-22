@@ -1,13 +1,49 @@
-:root{
-    background-color: beige;
-    margin: 0;
-    padding: 0;
+
+.jumbo-tron{
+    text-align: center;
+    margin-top: 3rem;
 
 }
-.container{
-    display: flex;
-    justify-content: center;
-    background-color: red;
-    width: 80%;
-    height: 80%;
+.jumbo-tron h1{
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+.jumbo-tron p{
+    font-size: 2rem;
+    margin-top: 0;
+}
+.partitionBar{
+    width: 100vw;
+    height: 1rem;
+    background-color: black;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+
+.row{
+    white-space: pre-wrap;
+    margin: 1px
+}
+.hour{
+    font-size: large;
+    text-align: center;
+    align-items: center;
+    background-color: aliceblue;
+    height: 4rem;
+    padding-top: 1rem;
+}
+.note{
+    font-size: 1rem;
+
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 4rem;
+    padding-top: 1rem;
+}
+.save{
+    background-color: lightblue;
+    text-align: center;
+    height: 4rem;
+    padding-top: 1rem;
+    border: none;
 }
