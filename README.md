@@ -1,4 +1,4 @@
-# c4-dailyPlanner
+# c5-dailyPlanner
 ![](assets/c5screenshot.jpg)
 ## Link
 https://efsoren.github.io/c5-dailyplanner/
