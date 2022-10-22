@@ -1,7 +1,7 @@
 # c5-dailyPlanner
 ![](assets/c5screenshot.jpg)
 ## Link
-https://efsoren.github.io/c5-dailyplanner/
+https://efsoren.github.io/c5-dailyPlanner/
 
 ## Description
 A webpage that shows the hours of a business day so that you can plan your schedule
